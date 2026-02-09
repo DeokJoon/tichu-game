@@ -1,5 +1,5 @@
 function Single() {
-  return <h2>싱글플레이 화면</h2>;
+  return <h2>Welcome to Single Player Mode</h2>;
 }
 
 export default Single;
